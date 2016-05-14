@@ -1,6 +1,5 @@
 # Data Science и Machine Learning
-## Общее
- * [How to get into the top 15 of a Kaggle competition using Python, dataquest](https://www.dataquest.io/blog/kaggle-tutorial/)
+## Разное
  * [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) - про начало изучения ML c помощью python, jupyter notebook и sklearn
  * [Awesome Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
  * [Awesome DataScience](https://github.com/okulbilisim/awesome-datascience)
@@ -20,3 +19,7 @@
 
 ## MOOCs
 _to be done_
+
+## Contents
+ * [How to get into the top 15 of a Kaggle competition using Python, dataquest](https://www.dataquest.io/blog/kaggle-tutorial/)
+ * [Hacker's Guide to Machine Learning and Predictive Modelling](https://github.com/apeeyush/machine-learning) - разбор некоторых соревнований на Kaggle
