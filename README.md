@@ -19,6 +19,7 @@
 ## Datasets
  * [Kaggle datasets](https://www.kaggle.com/datasets) - интересные данные + примеры скриптов для них
  * [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - огромное количество данных из разных областей
+ * [StarWars API](http://swapi.co)
 
 ## MOOCs
 _to be done_
