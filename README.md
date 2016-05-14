@@ -10,6 +10,10 @@
  * [Семинары по решающим деревьям, Евгений Соколов](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem04_trees.pdf)
  * [Decision trees, sklearn](http://scikit-learn.org/stable/modules/tree.html)
 
+### Логистическая регрессия
+ * [Семинары по логистической регрессии, Евгений Соколов](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem10_linear.pdf)
+ * [Logistic Regression, sklearn](http://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
+
 ## Datasets
  * [Kaggle datasets](https://www.kaggle.com/datasets) - интересные данные + примеры скриптов для них
  * [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - огромное количество данных из разных областей
