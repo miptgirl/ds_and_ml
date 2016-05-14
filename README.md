@@ -9,6 +9,9 @@
  * [Семинары по решающим деревьям, Евгений Соколов](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem04_trees.pdf)
  * [Decision trees, sklearn](http://scikit-learn.org/stable/modules/tree.html)
 
+### Bagging, RandomForest
+ * [Ensemble methods, sklearn](http://scikit-learn.org/stable/modules/ensemble.html)
+
 ### Логистическая регрессия
  * [Семинары по логистической регрессии, Евгений Соколов](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem10_linear.pdf)
  * [Logistic Regression, sklearn](http://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
