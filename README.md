@@ -20,6 +20,6 @@
 ## MOOCs
 _to be done_
 
-## Contents
+## Contests
  * [How to get into the top 15 of a Kaggle competition using Python, dataquest](https://www.dataquest.io/blog/kaggle-tutorial/)
  * [Hacker's Guide to Machine Learning and Predictive Modelling](https://github.com/apeeyush/machine-learning) - разбор некоторых соревнований на Kaggle
