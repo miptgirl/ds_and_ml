@@ -1,6 +1,7 @@
 # Data Science и Machine Learning
 ## Разное
  * [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) - про начало изучения ML c помощью python, jupyter notebook и sklearn
+ * [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
  * [Awesome Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
  * [Awesome DataScience](https://github.com/okulbilisim/awesome-datascience)
 
