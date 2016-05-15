@@ -1,11 +1,18 @@
 # Data Science и Machine Learning
 ## Разное
  * [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) - про начало изучения ML c помощью python, jupyter notebook и sklearn
+ * [Data Science Interview Questions](http://www.itshared.org/2015/10/data-science-interview-questions.html)
  * [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
  * [Awesome Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
  * [Awesome DataScience](https://github.com/okulbilisim/awesome-datascience)
 
+## Python
+ * [21 Interactive Plots from matplotlib, ggplot for Python,
+prettyplotlib, Stack Overflow, and seaborn](http://nbviewer.jupyter.org/gist/msund/11349097) - интерактивные графики
+
 ## Алгоритмы Machine Learning
+ * [Choosing algorithm, sklearn](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+ 
 ### Решающие деревья
  * [Семинары по решающим деревьям, Евгений Соколов](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem04_trees.pdf)
  * [Decision trees, sklearn](http://scikit-learn.org/stable/modules/tree.html)
