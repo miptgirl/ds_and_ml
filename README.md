@@ -10,7 +10,12 @@
  * [21 Interactive Plots from matplotlib, ggplot for Python,
 prettyplotlib, Stack Overflow, and seaborn](http://nbviewer.jupyter.org/gist/msund/11349097) - интерактивные графики
 
-## Алгоритмы Machine Learning
+## Статистика
+ * [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os)
+ * [Forecasting: principles and practice](https://www.otexts.org/fpp) - free online textbook
+ * [Seasonal adjusment on the fly with X-13ARIMA-SEATS](http://ellisp.github.io/blog/2015/10/10/X13ARIMA-SEATS/) - Seasonal forecasting using X13-ARIMA-SEATS
+
+## Machine Learning
  * [Choosing algorithm, sklearn](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
  
 ### Решающие деревья
@@ -24,10 +29,12 @@ prettyplotlib, Stack Overflow, and seaborn](http://nbviewer.jupyter.org/gist/msu
  * [Семинары по логистической регрессии, Евгений Соколов](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem10_linear.pdf)
  * [Logistic Regression, sklearn](http://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
 
-## Datasets
+## Datasets and API
  * [Kaggle datasets](https://www.kaggle.com/datasets) - интересные данные + примеры скриптов для них
  * [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - огромное количество данных из разных областей
- * [StarWars API](http://swapi.co)
+ * [StarWars API](http://swapi.co) [[ipynb](http://nbviewer.jupyter.org/github/rasbt/pattern_classification/blob/master/data_viz/swapi_viz.ipynb#Spaceships)]
+ * [Genderize.io API](https://genderize.io) - determine gender by first name
+ 
 
 ## MOOCs
 _to be done_
